@@ -1,4 +1,4 @@
-# ENPM_673_Project_4
+# Lucas-Kanade Tracker
 Implementation of Lucas Kanade Tracking Algorithm
 
 This repository has a report in pdf format with  descriptions of the tracking problem. All the solutions of the problem set have been implemented in In different files. There is also a .ipynb notebook for testing.
